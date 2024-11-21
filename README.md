@@ -1,2 +1,4 @@
-# Sales-data-dashboard
-I developed a comprehensive projects in excel, created multiple dashbords and tables to analyze the data. This process involved serval stages which includes data cleaning ,data transformation and data visualization.
+# World-wide Sales data analysis (Interactive Dashboard Creation using MS Excel)
+## Project Overview
+This project is tracking the sales data for a company operating in multiple regions and countries over the years (2010-2017) so they can improve their services and increase sales and revenue across every region in the coming years
+## Dataset used
